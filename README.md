@@ -1,7 +1,5 @@
 # Ex. 10 - REVERSE ENGINEER THE GIVEN PRODUCT
 
-### DATE: 
-
 ## AIM: 
 ### To reverse engineering the product and prototyping the same in 3D printer.
 
@@ -31,12 +29,14 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
+![diamond](https://github.com/Mukilkumar-SEC/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/119559663/e0025f5d-f938-40a8-a6ce-3af03856e5ac)
 
 ### Output:
+![DIAMOND_](https://github.com/Mukilkumar-SEC/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/119559663/a82ebb5c-99fa-45ef-bb9b-42a32f80d482)
 
 
-### Name:
-### Register Number:
+### Name: MAHESH RAJ PUROHIT J
+### Register Number: 212222240058
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
